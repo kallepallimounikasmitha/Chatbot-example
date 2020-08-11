@@ -2,6 +2,10 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.11.
 
+## Introduction to bots
+
+First steps, Login to Dialog flow create a agent and drive into the dialog flow and create the interesting things for the Bot, Then go to services get a private key JSON file and explore how can you integrate the bot , In my case I have used Angular to integrate. Need to add more, Work in Progress. 
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
